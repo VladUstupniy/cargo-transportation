@@ -1,0 +1,33 @@
+.navbar {
+    max-width: 100%;
+    padding: 16px 0px;
+    height: 45px;
+    background-color: #C8A35F;
+}
+.navbar__body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.navbar__lang {
+    a {
+        margin-right: 10px;
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+}
+.navbar__link {
+    display: inline-block;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: right;
+    color: #fff;
+}
+/* .navbar__phone {
+
+}
+.navbar__mail {
+
+} */

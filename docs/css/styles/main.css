@@ -1,0 +1,9 @@
+.main {
+  padding: 155px 0px 220px 0px;
+  top: 100px;
+  height: 100vh;
+  background-image: url("../img/img-3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
